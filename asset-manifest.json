@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/DariaOR.github.io/Example01/static/css/main.fd0472b5.css",
-    "main.js": "/DariaOR.github.io/Example01/static/js/main.5de99204.js",
-    "static/media/ai.png": "/DariaOR.github.io/Example01/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/DariaOR.github.io/Example01/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/DariaOR.github.io/Example01/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/DariaOR.github.io/Example01/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/DariaOR.github.io/Example01/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/DariaOR.github.io/Example01/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/DariaOR.github.io/Example01/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/people.png": "/DariaOR.github.io/Example01/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/DariaOR.github.io/Example01/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
-    "index.html": "/DariaOR.github.io/Example01/index.html",
-    "main.fd0472b5.css.map": "/DariaOR.github.io/Example01/static/css/main.fd0472b5.css.map",
-    "main.5de99204.js.map": "/DariaOR.github.io/Example01/static/js/main.5de99204.js.map"
+    "main.css": "/Example01/static/css/main.fd0472b5.css",
+    "main.js": "/Example01/static/js/main.2c80e905.js",
+    "static/media/ai.png": "/Example01/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/Example01/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/Example01/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/Example01/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/Example01/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/Example01/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/Example01/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/Example01/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/Example01/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/Example01/index.html",
+    "main.fd0472b5.css.map": "/Example01/static/css/main.fd0472b5.css.map",
+    "main.2c80e905.js.map": "/Example01/static/js/main.2c80e905.js.map"
   },
   "entrypoints": [
     "static/css/main.fd0472b5.css",
-    "static/js/main.5de99204.js"
+    "static/js/main.2c80e905.js"
   ]
 }
