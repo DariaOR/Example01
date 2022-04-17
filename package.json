@@ -2,7 +2,7 @@
   "name": "pd_1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DariaOR/Example01.git",
+  "homepage": "https://github.com/DariaOR.github.io/Example01",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.0.1",
@@ -19,8 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "react-scripts build",
-    "deploy": "gh-pages -d build -b master"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
