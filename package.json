@@ -2,7 +2,7 @@
   "name": "pd_1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DariaOR.github.io/Example01",
+  "homepage": "https://DariaOR.github.io/Example01",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.0.1",
